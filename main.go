@@ -6,9 +6,9 @@ func main (){
     fmt.Println("Hello World")
 
 	//variable 
-	var sid int = 10
+	// var sid int = 10
 	//variable name type = value
-	fmt.Println(sid)
+	// fmt.Println(sid)
 
 	// runes in go
 
@@ -16,9 +16,10 @@ func main (){
      fmt.Println(a)
 
 	 b := a 
-
 	 fmt.Println(b)
+    
+	 const sid string = "100"
+	 fmt.Println(sid)
+
 }
-
-
 
